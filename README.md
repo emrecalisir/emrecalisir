@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/___LINKEDIN_HANDLE___" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/EMRE_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/emrecalisir" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:emre@pivony.com">
@@ -82,16 +82,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EMRE_GITHUB_USERNAME&show_icons=true&theme=transparent" alt="Emre's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emrecalisir&show_icons=true&theme=transparent" alt="Emre's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMRE_GITHUB_USERNAME&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecalisir&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=EMRE_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=emrecalisir&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
